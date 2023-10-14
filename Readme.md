@@ -47,4 +47,5 @@ Awesome Laravel Admin & Starter Kit
 - [Surf](https://github.com/thinkverse/surf) - Surf, an opinionated fork of Wave - the SAAS starter kit, with Laravel 9.
 - [quickadminpanel](https://quickadminpanel.com/register) - Starting new Laravel project? Deliver first version faster!
 We will generate DB models, fresh CRUD adminpanel and API for you.
-
+- [Badaso Starter Server](https://github.com/uasoft-indonesia/badaso-starter-server) - The build project for new Badaso apps.
+- [Badaso Starter](https://github.com/uasoft-indonesia/badaso-starter) - Project starter with badaso.
