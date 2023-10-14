@@ -16,7 +16,8 @@ Awesome Laravel Admin & Starter Kit
 - [Ladmin | hexters/ladmin](https://github.com/hexters/ladmin) - Make an Administrator page in 5 minutes
 - [jetadmin | aliqasemzadeh/jetadmin](https://github.com/aliqasemzadeh/jetadmin) - ✔️ Bootstrap Admin Panel (This is new version of bap with simple update and installation.)
 - [laravel-admin | encore/laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes
-  
+- [filament | filament/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+
 ## Starter Kit
 - [Laralum](https://github.com/ConsoleTVs/Laralum) - Laravel 5.3 Administration Panel
 - [Volt Laravel Dashboard](https://github.com/themesberg/volt-laravel-dashboard) - Free and open-source Laravel admin dashboard interface built with Livewire & Alpine.js 
