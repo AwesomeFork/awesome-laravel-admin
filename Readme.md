@@ -2,9 +2,9 @@ Awesome Laravel Admin & Starter Kit
 ===============
 
 ### Packages
-- [Laravel Admin | appzcoder/laravel-admin](https://github.com/sohelamin/laravel-admin) - An admin panel for managing users, roles, permissions & crud.\
-- [laravel admin | jamesmills/laravel-admin](https://github.com/jamesmills/laravel-admin) - A very simple admin panel for managing users, roles & permissions.\
-- [Laravel Administrator | frozennode/administrator](https://github.com/FrozenNode/Laravel-Administrator/) - An administrative interface package for Laravel\
+- [Laravel Admin | appzcoder/laravel-admin](https://github.com/sohelamin/laravel-admin) - An admin panel for managing users, roles, permissions & crud.
+- [laravel admin | jamesmills/laravel-admin](https://github.com/jamesmills/laravel-admin) - A very simple admin panel for managing users, roles & permissions.
+- [Laravel Administrator | frozennode/administrator](https://github.com/FrozenNode/Laravel-Administrator/) - An administrative interface package for Laravel
 - [laravel totem | studio/laravel-totem](https://github.com/codestudiohq/laravel-totem) - Manage Your Laravel Schedule From A Web Dashboard
 - [Orchid | orchid/platform](https://github.com/orchidsoftware/platform) - Orchid is a @laravel package that allows for rapid application development of back-office applications, admin/user panels, and dashboards.
 - [Voyager | tcg/voyager](https://github.com/thedevdojo/voyager) - Voyager - The Missing Laravel Admin
@@ -15,7 +15,8 @@ Awesome Laravel Admin & Starter Kit
 - [laravel easypanel | rezaamini-ir/laravel-easypanel](https://github.com/rezaamini-ir/laravel-easypanel) - A beautiful and flexible admin panel creator based on Livewire for Laravel
 - [Ladmin | hexters/ladmin](https://github.com/hexters/ladmin) - Make an Administrator page in 5 minutes
 - [jetadmin | aliqasemzadeh/jetadmin](https://github.com/aliqasemzadeh/jetadmin) - ✔️ Bootstrap Admin Panel (This is new version of bap with simple update and installation.)
-
+- [laravel-admin | encore/laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes
+  
 ## Starter Kit
 - [Laralum](https://github.com/ConsoleTVs/Laralum) - Laravel 5.3 Administration Panel
 - [Volt Laravel Dashboard](https://github.com/themesberg/volt-laravel-dashboard) - Free and open-source Laravel admin dashboard interface built with Livewire & Alpine.js 
