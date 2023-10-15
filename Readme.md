@@ -50,3 +50,4 @@ Awesome Laravel Admin & Starter Kit
 We will generate DB models, fresh CRUD adminpanel and API for you.
 - [Badaso Starter Server](https://github.com/uasoft-indonesia/badaso-starter-server) - The build project for new Badaso apps.
 - [Badaso Starter](https://github.com/uasoft-indonesia/badaso-starter) - Project starter with badaso.
+- [Brive](https://github.com/erikwibowo/Laravel-Brive) - Boilerplate Laravel Breeze Inertia Vue with Role Base Access Control
